@@ -1,0 +1,77 @@
+.logout{
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+.side-bar{
+  max-width: 50%;
+  max-height: 500px;
+  margin-top: 5%;
+}
+
+.side-bar .card-title{
+  font-weight: 200;
+}
+
+.home-card-single .card-title{
+  font-weight: 400;
+}
+
+.side-bar-image{
+  width : 200px;
+  height : 250px;
+}
+
+.home-card{
+  width: 80%;
+  margin-left: 10px;
+  padding: 20px;
+}
+
+.home-card-single{
+  max-width: 100vh;
+}
+
+.home-body{
+  display: flex;
+  padding: 20px;
+}
+
+.my-card{
+  max-width: 600px;
+  margin-left: 25%;
+  margin-right: 25%;
+  
+}
+
+.auth-card{
+  padding: 20px;
+  text-align: center;
+}
+
+.profile{
+  display:flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  border-bottom: 1px solid grey;
+  padding : 20px;
+}
+
+.followers{
+  display:flex;
+  justify-content: space-around;
+  width : 108%;
+}
+
+.profilepic{
+  width : 170px;
+  height : 170px;
+  border-radius: 80px;
+}
+
+.photos{
+  display:  flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding : 20px;
+}
